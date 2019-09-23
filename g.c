@@ -4,6 +4,7 @@ int main ()
 if (x==5)
 	printf("oh yeaaah");
 else
-	printf("oh shit");
+	printf("oh nooooooo");
+printf("oh nooooooo");
 return 0;
 }
